@@ -1,4 +1,5 @@
-## Hi! 👋 I'm Angelynn.
+# Hi, 👋 I'm Angelynn! 
+#Software Engineer in training.
 
 <!--
 **AngelynnPeralta/AngelynnPeralta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
